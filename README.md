@@ -4,4 +4,4 @@
 A smooth, modern <b>Calendar</b>, app with sleek design & Smart Glass OS.
 </p>
 
-![Game Image](/Calendar.jpg)
+![Calendar Image](/Calendar.png)
